@@ -1,6 +1,6 @@
 # hello world
 
-This is a demo repo to test the SQuiz Matrix git bridge asset type.
+This is a demo repo to test the Squiz Matrix git bridge asset type.
 
 Updating the file in Github should automatically update the page on Matrix, but could be an issue with server side caching 
 
