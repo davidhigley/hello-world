@@ -1,4 +1,5 @@
-# hello-world
-Demo repo to test Matrix git bridge
+# hello world
 
-This is David's first Git project for testing a connection with Matrix
+This is a demo repo to test the SQuiz Matrix git bridge asset type.
+
+Updating the file in Github should automatically update the page on Matrix, but could be an issue with server side caching 
